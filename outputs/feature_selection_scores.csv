@@ -1,0 +1,19 @@
+feature,f_score,selected
+alarm_count,322.6229263065321,True
+mean_temperature,257.4370713445596,True
+temperature_rolling_7d,218.28620681465526,True
+mean_vibration,167.76347359558278,True
+max_temperature,146.24233799356128,True
+max_vibration,145.47829747160384,True
+mean_current,137.6384880196172,True
+vibration_rolling_7d,119.4490017401817,True
+max_current,65.16104838616056,False
+type_Conveyor,3.1245753377906604,False
+type_Hydraulic Press,1.9630235044390414,False
+load,1.0875870070315956,False
+cycles,0.4085763151492708,False
+runtime,0.39379417239501485,False
+age,0.35143994865284833,False
+type_CNC Mill,0.03333024075706227,False
+type_Compressor,0.033330240757062264,False
+sensor_completeness,0.02294922512136703,False

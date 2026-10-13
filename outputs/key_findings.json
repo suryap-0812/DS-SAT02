@@ -1,0 +1,48 @@
+{
+  "machines_monitored": 16,
+  "raw_sensor_rows": 23000,
+  "sensor_rows_after_deduplication": 22930,
+  "duplicate_sensor_keys_removed": 70,
+  "maintenance_events": 20,
+  "alarm_counts": {
+    "High Temperature": 86,
+    "Overcurrent": 76,
+    "High Vibration": 76,
+    "Sensor Fault": 69,
+    "Low Pressure": 64
+  },
+  "top_priority_machines": [
+    {
+      "machine": "M012",
+      "type": "Compressor",
+      "avg_warning_score": 0.18333333333333332,
+      "total_alarms": 31
+    },
+    {
+      "machine": "M006",
+      "type": "Hydraulic Press",
+      "avg_warning_score": 0.18333333333333332,
+      "total_alarms": 26
+    },
+    {
+      "machine": "M015",
+      "type": "Conveyor",
+      "avg_warning_score": 0.16666666666666666,
+      "total_alarms": 29
+    },
+    {
+      "machine": "M009",
+      "type": "CNC Mill",
+      "avg_warning_score": 0.16666666666666666,
+      "total_alarms": 25
+    },
+    {
+      "machine": "M003",
+      "type": "Conveyor",
+      "avg_warning_score": 0.15,
+      "total_alarms": 26
+    }
+  ],
+  "load_downtime_correlation": 0.1081815134646604,
+  "data_is_synthetic": true
+}

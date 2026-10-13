@@ -1,0 +1,6 @@
+dataset,rows,columns,missing_cells,duplicate_full_rows
+sensor,23000,5,0,70
+machines,16,4,0,0
+usage,960,5,0,0
+alarms,371,3,0,0
+maintenance,20,4,0,0

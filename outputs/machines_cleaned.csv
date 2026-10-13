@@ -1,0 +1,17 @@
+machine,type,age,installation_date
+M001,CNC Mill,2,2023-06-23
+M002,Hydraulic Press,8,2017-09-16
+M003,Conveyor,6,2019-06-03
+M004,Compressor,2,2023-07-12
+M005,CNC Mill,3,2022-12-10
+M006,Hydraulic Press,7,2018-05-05
+M007,Conveyor,9,2016-06-27
+M008,Compressor,9,2016-06-21
+M009,CNC Mill,7,2018-12-02
+M010,Hydraulic Press,11,2014-09-14
+M011,Conveyor,7,2018-10-03
+M012,Compressor,3,2022-05-16
+M013,CNC Mill,10,2015-07-28
+M014,Hydraulic Press,5,2020-06-11
+M015,Conveyor,7,2018-09-15
+M016,Compressor,6,2019-11-08
